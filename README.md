@@ -1,11 +1,24 @@
-# Data Scientist
+# Devops Engineer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills:
+
+Operating System 		:	Linux and Windows
+Version Control 		:	Git, Azure Repos
+Build Tools 			:	Maven, MS-Build
+CI /CD Tools			: 	Jenkins, Azure Devops
+CM Tools			:	Ansible
+Infrastructure as Code 	: 	Terraform
+Scripting Languages	            	: 	Bash/Shell
+Cloud Environments 		: 	On-Premises and AWS
+Database		            	: 	MySQL, MongoDB
+Monitoring tools		:	CloudWatch, ELK, Prometheus and Grafana
+Tracking Tool 			:	Jira
+Orchestration Tools              	:	Docker, Kubernetes
+
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+
+Completed M.C.A from JNTU-Kakinada.
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
