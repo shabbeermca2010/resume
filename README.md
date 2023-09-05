@@ -6,7 +6,7 @@ Operating System 		:	Linux and Windows
 Version Control 		:	Git, Azure Repos
 Build Tools 			:	Maven, MS-Build
 CI /CD Tools			: 	Jenkins, Azure Devops
-CM Tools			:	Ansible
+CM Tools			    :	Ansible
 Infrastructure as Code 	: 	Terraform
 Scripting Languages	            	: 	Bash/Shell
 Cloud Environments 		: 	On-Premises and AWS
